@@ -49,13 +49,6 @@ A beginner-level SQL project demonstrating database creation, table creation, da
 | INSERT INTO | Adds student records |
 | SELECT | Retrieves table data |
 
-## Project Screenshots
-
-### SQL Code
-![SQL Code](screenshots/sql_code.png)
-
-### Query Output
-![Query Output](screenshots/query_output.png)
 
 ## How to Run
 
